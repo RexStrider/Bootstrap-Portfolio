@@ -1,3 +1,6 @@
+
+/* General Styling */
+
 body {
 	color: #777777;
 	background-color: seashell;
@@ -25,14 +28,13 @@ input {
 	padding: 6px;
 	font-size: 16px;
 }
-/**/
+
 .wrapper-main {
-	margin: 40px 15% 100px 15%;
+	margin-top: 40px;
+	margin-bottom: 100px;
 	padding: 30px;
 	background-color: #ffffff;
 	border: 1px solid #cccccc;
-	min-height: calc(100vh - 270px);
-	width: 900px;
 }
 
 .title {
@@ -46,31 +48,18 @@ input {
 }
 
 .footer {
-	/* right: 0;
-	left: 0;
-    bottom: 0;
-    position: relative; */
     background-color: #666666;
 	height: 60px;
 	border-top: 10px solid #4aaaa5;
 }
 
-/* .footer-copyright {
-	position: absolute;
-    top: 80%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: #cccccc;
-} */
-
 .footer .container {
 	color: #cccccc;
-	/* display: flex;
-	align-items: flex-end;
-	justify-content: center; */
 }
 
-/**/
+/* General styling end */
+
+/* Navigation Bar styling */
 
 .navbar-light {
 	border-bottom: 2px solid #cccccc;
@@ -93,10 +82,12 @@ input {
 	height: 20px;
 }
 
-/**/
+/* Navigation Bar styling */
+
+/* Profile Picture styling */
 
 .profile-picture-and-bio img {
 	margin: 20px 25px 20px 0px;
 }
 
-/**/
+/* Profile Picture styling end */
