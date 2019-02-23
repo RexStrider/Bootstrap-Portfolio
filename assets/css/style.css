@@ -105,3 +105,13 @@ input {
 }
 
 /* Portfolio page styling end */
+
+/* Contact page styling */
+
+.button-contact-form {
+	color: #ffffff;
+	background-color: #4aaaa5;
+	font-size: 18px;
+}
+
+/* Contact page styling end */
