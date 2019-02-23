@@ -94,13 +94,14 @@ input {
 
 /* Portfolio page styling */
 
-/* .project-title {
-	position: relative;
-	bottom: 60px;
+.project-title {
 	color: #ffffff;
 	background-color: #4aaaa5;
 	padding: 15px;
-	text-align: center;
-} */
+}
+
+.img-spacing {
+	margin-bottom: 30px;
+}
 
 /* Portfolio page styling end */
